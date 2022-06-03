@@ -1,3 +1,3 @@
-# CorioHealthWeb
+# Corio Health's Public-Facing Website
 
-This is Corio Health's page. 
+This is the repository for Corio Health's public website. It's hosted with Github Pages. 
